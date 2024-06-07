@@ -1,0 +1,1 @@
+This Exploratory data analysis project consists of multiple task combined together to make an complete analysis of the data and what observations are done out of the given data to which lots of analysis like univariate, bivariate and multi variate analysis are done. Along with that feature Engineering is also done to showcase the complete data.
